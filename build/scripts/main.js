@@ -1,4 +1,3 @@
-
 var burgerOn = document.querySelector('#burger-on'),
     burgerOff = document.querySelector('#burger-off'),
     title = document.querySelectorAll('#title');
